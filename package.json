@@ -1,0 +1,13 @@
+{
+  "name": "upstate-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^3.4.1",
+    "@openzeppelin/test-helpers": "^0.5.10"
+  },
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
